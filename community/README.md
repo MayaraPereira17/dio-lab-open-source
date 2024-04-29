@@ -1,90 +1,43 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Exemplos de Profile README</span>
-</h1>
+![Mayara Caroline](https://user-images.githubusercontent.com/79329230/148284225-70e92980-3109-4e65-a882-2a5114690749.gif)
 
-Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abaixo um exemplo simples de como você pode criar o seu Profile README para o Desafio da [Digital Innovation One](https://www.dio.me/) e faça a sua contribuição 😉🚀.
+- 🌱 tecnica do curso de Desenvolvimento de Sistemas
 
----
+<div align="center">
+  <a href="https://github.com/MayaraPereira17/">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MayaraPereira17&show_icons=true&theme=synthwave"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraPereira17&layout=compact&langs_count=7&theme=synthwave"/></a>
+</div>
 
-# Nome Sobrenome
 
-Breve descrição sobre você.
+<br>
+<br>
 
-### Conecte-se comigo
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/SEUUSERNAME/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/SEUUSERNAME/)
-
-### Habilidades
-
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-### Meus Principais Desafios de Projeto DIO
-
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
-
-### Meus Principais Artigos na DIO
-
-<table>
-  <thead>
-    <tr align="left">
-      <th>Data</th>
-      <th>Título</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>14/12/2022</td>
-      <td>5 Dicas Essenciais para Aprender a Programar em Qualquer Linguagem! #CommunityWeek</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-essenciais-para-aprender-a-programar-em-qualquer-linguagem-communityweek">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>21/10/2022</td>
-      <td>Crie Seu Próprio Web Component</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/crie-seu-proprio-web-component">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>30/06/2022</td>
-      <td>Destrave seu Primeiro Desafio de Código</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>21/04/2022</td>
-      <td>5 Dicas para Melhorar seu Profile README do GitHub</td>
-      <td align="center">
-        <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
-
----
+<div align="center" height="30" width="40">
+<b>Ferramentas<b>
+</div>
+<div align="center" style="display: inline_block"><br> 
+  <img align="center" alt="mayara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="mayara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img  align="center" alt="mayara-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img  align="center" alt="mayara-boostrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="mayara-php" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img  align="center" alt="mayara-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img  align="center" alt="mayara-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="mayara-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="mayara-React-Native" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="mayara-laravel" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+</div>
+  
+  ##
+ 
+<div align="center" > 
+  <a href = "mailto:mayaracapereira45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_maay126/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mayara-c-7a5b041b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWHtcsxgRBG6%2BmdsPMvFXw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+<br>
+<div align="center" > 
+<i>“A arte desafia a tecnologia, e a tecnologia inspira a arte”. John Lasseter</i>
+</div>
+ 
